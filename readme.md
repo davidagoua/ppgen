@@ -1,4 +1,5 @@
-# FastAPI
+# PPGEN
+Generates a profile image for a given name.
 
 > Version 0.1.0
 
